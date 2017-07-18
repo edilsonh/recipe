@@ -1,0 +1,17 @@
+.food {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.stuff {
+  border: 1px solid;
+  width: 200px;
+  height: 300px;
+  margin-top: 20px;
+}
+
+form {
+  border-bottom:  1px solid;
+  padding: 20px;
+}
